@@ -1,5 +1,5 @@
 ---
-title: Karantina'dan Merhaba Dünya
+title: Karantina Günlerinden Merhaba Dünya!
 date: 2020-05-13
 ---
 
