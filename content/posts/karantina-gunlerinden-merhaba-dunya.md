@@ -18,3 +18,4 @@ COVID-19 isimli bir virüsün dünyayı etkisi aldığı bu dönemde başlamamı
 ******
 
     herşeyden önemlisi ölümlü birer insan olduğumuzun farkına vardık.
+    
