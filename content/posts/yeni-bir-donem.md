@@ -1,10 +1,9 @@
 ---
 title: Yeni Bir Dönem
 date: 2020-09-15
-tags: ["Zihin Süzgeci", "Hayat"]
 ---
 
-Öğretmenlik hayatımın üçüncü yılının henüz başındayım. İki garip sene atlattım Cizre'de. Ve gördüğümüz, yaşadığımız, dokunduğumuz, tattığımız şeylerden ibaret olduğumuzu bir daha deneyimledim.
+Öğretmenlik hayatımın üçüncü yılının henüz başındayım. İki garip sene atlattım Cizre'de ve gördüğümüz, yaşadığımız, dokunduğumuz, tattığımız şeylerden ibaret olduğumuzu bir daha deneyimledim.
 
 İlk senemde 6 haftalık "**Sözleşmeli** Aday Öğretmen" iken münhal olan bir kadroya görevlendirme Müdür Yardımcısı olarak devam ettim. Zor bir seneydi, detayları çok yorucu ama öğrenme kısmı zevkliydi. Öğretmenlerin haklı ve garip istekleri vardı. Öğrencilerin saçma ve garip istekleri vardı. Velilerin akla hayale sığmaz fikirleri vardı. Ama bir orta yol yoktu. Bulamamıştık. Herkes bir şey istiyor ama kimse bir şey yapmıyordu. Hayatın ritmini bulmuştum. Devletten istenilen şey değişmiyordu. Haydi birileri bir şeyler yapsın. "Bak çok güzel bi fikrim var neden bunu birileri yapmıyor?"
 
