@@ -10,7 +10,7 @@
     "deploy": "rm -rf node_modules/gh-pages/.cache && gatsby build && gh-pages -d public -b gh-pages"
   },
   "dependencies": {
-    "gatsby": "^2.21.22",
+    "gatsby": "^4.25.7",
     "gatsby-cli": "^2.12.96",
     "gatsby-theme-blog": "^1.5.22",
     "react": "^16.12.0",
